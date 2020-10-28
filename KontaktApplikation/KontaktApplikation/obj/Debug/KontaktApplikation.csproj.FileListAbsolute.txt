@@ -1,0 +1,7 @@
+C:\Users\Biszc\source\repos\KontaktApplikation\KontaktApplikation\bin\Debug\KontaktApplikation.exe.config
+C:\Users\Biszc\source\repos\KontaktApplikation\KontaktApplikation\bin\Debug\KontaktApplikation.exe
+C:\Users\Biszc\source\repos\KontaktApplikation\KontaktApplikation\bin\Debug\KontaktApplikation.pdb
+C:\Users\Biszc\source\repos\KontaktApplikation\KontaktApplikation\obj\Debug\KontaktApplikation.csprojAssemblyReference.cache
+C:\Users\Biszc\source\repos\KontaktApplikation\KontaktApplikation\obj\Debug\KontaktApplikation.csproj.CoreCompileInputs.cache
+C:\Users\Biszc\source\repos\KontaktApplikation\KontaktApplikation\obj\Debug\KontaktApplikation.exe
+C:\Users\Biszc\source\repos\KontaktApplikation\KontaktApplikation\obj\Debug\KontaktApplikation.pdb
